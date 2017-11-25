@@ -1,0 +1,30 @@
+# build output
+dist
+.avet
+.vscode
+.tmp
+.site
+.external
+.temp
+
+# dependencies
+node_modules
+
+# logs
+*.log
+
+# coverage
+.nyc_output
+coverage
+
+# test output
+test/**/out
+.DS_Store
+run/
+
+_site
+
+*.iml
+.idea
+
+avet-shared/lib/
