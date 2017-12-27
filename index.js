@@ -79,7 +79,8 @@ module.exports = {
       "react/no-array-index-key": [0],
       "react/no-unused-state": [0],
       "react/react-in-jsx-scope": [0],
-      "no-param-reassign": [0]
+      "no-param-reassign": [0],
+      "no-return-await": [0]
     },
     style.rules
   ),
