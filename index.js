@@ -80,7 +80,8 @@ module.exports = {
       "react/no-unused-state": [0],
       "react/react-in-jsx-scope": [0],
       "no-param-reassign": [0],
-      "no-return-await": [0]
+      "no-return-await": [0],
+      "no-bitwise": [0]
     },
     style.rules
   ),
