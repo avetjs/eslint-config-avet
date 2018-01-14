@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-avet",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "ESLint shareable config for the Avet style",
   "files": ["index.js", "lib"],
   "keywords": [
