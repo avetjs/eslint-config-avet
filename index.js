@@ -82,7 +82,8 @@ module.exports = {
       "react/no-did-mount-set-state": [0],
       "no-param-reassign": [0],
       "no-return-await": [0],
-      "no-bitwise": [0]
+      "no-bitwise": [0],
+      "no-prototype-builtins": [0]
     },
     style.rules
   ),
