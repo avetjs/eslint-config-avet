@@ -84,7 +84,9 @@ module.exports = {
       "no-param-reassign": [0],
       "no-return-await": [0],
       "no-bitwise": [0],
-      "no-prototype-builtins": [0]
+      "no-prototype-builtins": [0],
+      "prefer-destructuring": [0],
+      "no-case-declarations": [0]
     },
     style.rules
   ),
